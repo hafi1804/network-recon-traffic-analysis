@@ -103,4 +103,26 @@ The complete detailed report is available in this repository.
 
 [View Full Report](./Network_Recon_Traffic_Analysis_Report.pdf)
 
+---
 
+## Screenshots
+
+### System Information
+![IP Config](screenshots/ipconfig.png)
+
+---
+
+### Nmap Scans
+![Localhost Scan](screenshots/nmap-localhost.png)  
+![Network Scan](screenshots/nmap-network.png)  
+![Service Version Scan](screenshots/nmap-sV.png)  
+![Aggressive Scan 1](screenshots/nmap-A-1.png)  
+![Aggressive Scan 2](screenshots/nmap-A-2.png)  
+
+---
+
+### Wireshark Analysis
+![DNS](screenshots/dns.png)  
+![TCP](screenshots/tcp.png)  
+![HTTP](screenshots/http.png)  
+![TLS](screenshots/tls.png)
