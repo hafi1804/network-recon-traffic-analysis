@@ -112,6 +112,13 @@ The complete detailed report is available in this repository.
 
 ---
 
+## Screenshots
+
+### System Information
+![IP Config](screenshots/ipconfig.png)
+
+---
+
 ### Nmap Scans
 ![Localhost Scan](screenshots/nmap-localhost.png)  
 ![Network Scan](screenshots/nmap-network.png)  
