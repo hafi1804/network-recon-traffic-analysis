@@ -98,3 +98,9 @@ The complete detailed report is available in this repository.
 - Network reconnaissance  
 - Packet analysis  
 - Security assessment  
+
+---
+
+[View Full Report](./Network_Recon_Traffic_Analysis_Report.pdf)
+
+
